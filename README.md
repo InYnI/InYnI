@@ -1,16 +1,25 @@
-### Hi there 👋
+       
+<h1 align="center"> 
+  Hi there, I'm Nikita
+  <div id="header">
+    <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="150"/>
+  </div>
+</h1>
 
-<!--
-**InYnI/InYnI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ehC4SqtNcEeLAiu66w/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+<div id="badges" align="center">
+  <a href="mailto:nikitaleontev2222@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+  </a>
+  <a href="https://t.me/I_nYn_I">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=InYnI&style=flat-square&color=blue" alt=""/>
+</div>
+
