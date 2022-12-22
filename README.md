@@ -27,5 +27,5 @@ I am a Junior Developer <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xf
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=InYnI&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=InYnI&style=flat-square&color=orange" alt=""/>
 </div>
