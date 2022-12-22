@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Nikita)](https://git.io/typing-svg)
 
 ### :man_technologist: About Me :
-I am a Junior Developer <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="30"> from Russia.
+I am a Junior Developer <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="40"> from Russia.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
