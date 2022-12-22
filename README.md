@@ -33,3 +33,8 @@ I am a Junior Developer <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xf
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InYnI&theme=dark&background=000000)](https://git.io/streak-stats)
