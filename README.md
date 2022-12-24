@@ -1,5 +1,5 @@
    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&lines=Hi+there,+I'm+Nikita)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=green&lines=Hi+there,+I'm+Nikita.)](https://git.io/typing-svg)
 
 ### :man_technologist: About Me :
 I am a Junior Developer <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" width="40"> from Russia.
